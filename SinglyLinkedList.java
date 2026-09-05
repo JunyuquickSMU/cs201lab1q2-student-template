@@ -65,7 +65,7 @@ public class SinglyLinkedList<E> {
         return answer;
     }
 
-    // Write your codes below
+    // Write your codes below.
     public String toString(){
         StringBuilder sb = new StringBuilder();
         Node<E> curr = head;
